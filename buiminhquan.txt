@@ -1,1 +1,9 @@
-Quan Bui
+git add *
+git status
+git commit -m "comment"
+git push
+
+backup
+git log
+git revert <id>
+esc :q enter
